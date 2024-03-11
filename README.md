@@ -2,7 +2,7 @@
 
 Built with SFML, followed the book "The Nature Of Code - Daniel Shiffman".
 
-By minipulating velocity using vector acceleration towords mouse position we can create a string like effect.
+By minipulating velocity using vector acceleration towards mouse position we can create a string like effect.
 
 ![Alt Text](Showcase.gif)
 
