@@ -1,4 +1,4 @@
-# 1.6 - Acceleration towards Mouse
+# Acceleration towards Mouse
 
 Built with SFML, followed the book "The Nature Of Code - Daniel Shiffman".
 
